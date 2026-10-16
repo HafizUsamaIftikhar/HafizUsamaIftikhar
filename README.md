@@ -19,12 +19,12 @@
 
 <br/><br/>
 
-<a href="#about">About</a> &nbsp;•&nbsp;
-<a href="#core-competencies">Competencies</a> &nbsp;•&nbsp;
-<a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-<a href="#experience">Experience</a> &nbsp;•&nbsp;
-<a href="#featured-projects">Projects</a> &nbsp;•&nbsp;
-<a href="#contact">Contact</a>
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-21262d?style=for-the-badge&labelColor=21262d" alt="ABOUT"/></a>
+<a href="#core-competencies"><img src="https://img.shields.io/badge/COMPETENCIES-21262d?style=for-the-badge&labelColor=21262d" alt="COMPETENCIES"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-21262d?style=for-the-badge&labelColor=21262d" alt="TECH%20STACK"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-21262d?style=for-the-badge&labelColor=21262d" alt="EXPERIENCE"/></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-21262d?style=for-the-badge&labelColor=21262d" alt="PROJECTS"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-21262d?style=for-the-badge&labelColor=21262d" alt="CONTACT"/></a>
 
 </div>
 
@@ -32,9 +32,18 @@
 
 <div align="center">
 
-| 🏢 **4** | 🚀 **5** | 🧩 **10+** | 🗣️ **3** |
-|:---:|:---:|:---:|:---:|
-| Companies worked with | Projects delivered | Modules in the School System | Languages spoken |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1f6feb&height=2&section=header" width="60%" alt=""/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/COMPANIES-4-0A66C2?style=for-the-badge&labelColor=161b22" alt="COMPANIES 4"/>
+<img src="https://img.shields.io/badge/PROJECTS-5-1f6feb?style=for-the-badge&labelColor=161b22" alt="PROJECTS 5"/>
+<img src="https://img.shields.io/badge/MODULES-10%2B-0A66C2?style=for-the-badge&labelColor=161b22" alt="MODULES 10%2B"/>
+<img src="https://img.shields.io/badge/LANGUAGES-3-1f6feb?style=for-the-badge&labelColor=161b22" alt="LANGUAGES 3"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0A66C2&height=2&section=header" width="60%" alt=""/>
 
 </div>
 
