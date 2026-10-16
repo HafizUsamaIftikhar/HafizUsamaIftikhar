@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f6feb&height=220&section=header&text=Hafiz%20Usama%20Iftikhar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Full-Stack%20Web%20Developer%20%7C%20GoHighLevel%20Specialist&descSize=16&descAlignY=60" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f6feb&height=210&section=header&text=Hafiz%20Usama%20Iftikhar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Full-Stack%20Web%20Developer%20%7C%20GoHighLevel%20Specialist&descSize=16&descAlignY=60" alt="Header"/>
 
 <a href="https://github.com/HafizUsamaIftikhar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&lines=HTML+%7C+CSS+%7C+PHP+%7C+MySQL;ASP.NET+Core+%7C+MVC+%7C+Web+APIs+%7C+SQL+Server;Building+secure+%26+scalable+web+applications;Clean+code.+Real+solutions." alt="Typing SVG"/>
@@ -19,27 +19,22 @@
 
 <br/><br/>
 
-<a href="#about"><kbd>&nbsp;ABOUT&nbsp;</kbd></a> &nbsp;
-<a href="#core-competencies"><kbd>&nbsp;COMPETENCIES&nbsp;</kbd></a> &nbsp;
-<a href="#tech-stack"><kbd>&nbsp;TECH&nbsp;STACK&nbsp;</kbd></a> &nbsp;
-<a href="#experience"><kbd>&nbsp;EXPERIENCE&nbsp;</kbd></a> &nbsp;
-<a href="#featured-projects"><kbd>&nbsp;PROJECTS&nbsp;</kbd></a> &nbsp;
-<a href="#contact"><kbd>&nbsp;CONTACT&nbsp;</kbd></a>
+<a href="#about">About</a> &nbsp;•&nbsp;
+<a href="#core-competencies">Competencies</a> &nbsp;•&nbsp;
+<a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+<a href="#experience">Experience</a> &nbsp;•&nbsp;
+<a href="#featured-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#contact">Contact</a>
 
-<br/><br/>
-
-<hr/>
+</div>
 
 <br/>
 
-<kbd>&nbsp;<b>4</b>&nbsp;</kbd> <b>COMPANIES</b> &nbsp;&nbsp;&nbsp;
-<kbd>&nbsp;<b>5</b>&nbsp;</kbd> <b>PROJECTS</b> &nbsp;&nbsp;&nbsp;
-<kbd>&nbsp;<b>10+</b>&nbsp;</kbd> <b>MODULES BUILT</b> &nbsp;&nbsp;&nbsp;
-<kbd>&nbsp;<b>3</b>&nbsp;</kbd> <b>LANGUAGES</b>
+<div align="center">
 
-<br/><br/>
-
-<hr/>
+| 🏢 **4** | 🚀 **5** | 🧩 **10+** | 🗣️ **3** |
+|:---:|:---:|:---:|:---:|
+| Companies worked with | Projects delivered | Modules in the School System | Languages spoken |
 
 </div>
 
@@ -47,21 +42,17 @@
 
 <h2 align="center" id="about">About</h2>
 
-<p align="center"><i>Secure, scalable and maintainable web applications, from database to user interface.</i></p>
-
 I'm a web developer specializing in **.NET (ASP.NET Core & MVC)** and **SQL Server**, backed by strong front-end skills in **HTML, CSS and JavaScript**. I build responsive interfaces, secure and scalable web applications and RESTful APIs, and I automate marketing and business processes with **GoHighLevel** (funnels, workflows, forms and CRM pipelines).
 
 I value clean architecture, readable code and continuous learning, and I work well in team environments.
 
-> [!NOTE]
-> **Currently working as a .NET Developer at MTS Pvt Ltd.** Open to full-time roles and freelance projects.
-
 | | |
 |:---|:---|
+| **Currently** | .NET Developer at MTS Pvt Ltd |
 | **Education** | BS Computer Science, Federal Urdu University of Arts, Science & Technology |
 | **Focus** | MVC architecture, database design, secure web development |
 | **Languages** | Pashto (Native) · Urdu (C2) · English (C1) |
-| **Location** | Islamabad, Pakistan |
+| **Open to** | Full-time roles and freelance projects |
 
 <br/>
 
@@ -104,23 +95,20 @@ I value clean architecture, readable code and continuous learning, and I work we
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,dotnet,mysql,mssql,git,github,vscode,visualstudio&perline=12" alt="Tech Stack"/>
+| Front-End | Back-End | Database | Tools |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js" alt="Front-End"/> | <img src="https://skillicons.dev/icons?i=cs,dotnet,php" alt="Back-End"/> | <img src="https://skillicons.dev/icons?i=mysql,mssql" alt="Database"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Tools"/> |
 
-<br/><br/>
-
-<kbd>&nbsp;GoHighLevel&nbsp;</kbd> &nbsp;<kbd>&nbsp;REST&nbsp;Web&nbsp;APIs&nbsp;</kbd> &nbsp;<kbd>&nbsp;MVC&nbsp;Architecture&nbsp;</kbd> &nbsp;<kbd>&nbsp;Microsoft&nbsp;Word&nbsp;</kbd> &nbsp;<kbd>&nbsp;Microsoft&nbsp;Excel&nbsp;</kbd>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" alt="CSS"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" alt="PHP"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL"/>
+<img src="https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge" alt="GoHighLevel"/>
+<img src="https://img.shields.io/badge/Web%20APIs-512BD4?style=for-the-badge" alt="Web APIs"/>
+<img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="MS Word"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="MS Excel"/>
 
 </div>
-
-<br/>
-
-| Category | Technologies |
-|:---|:---|
-| **Front-End** | HTML, CSS, JavaScript, Responsive Design |
-| **Back-End** | C#, ASP.NET Core, ASP.NET MVC, PHP, Web APIs |
-| **Databases** | Microsoft SQL Server (SSMS), MySQL |
-| **CRM / Automation** | GoHighLevel: Funnels, Workflows, Automations, Forms, Pipelines |
-| **Tools & Office** | Git, GitHub, VS Code, Visual Studio, Microsoft Word, Microsoft Excel |
 
 <br/>
 
@@ -147,7 +135,7 @@ I value clean architecture, readable code and continuous learning, and I work we
         <li>Automated PDF fee challans and result cards</li>
         <li>Excel / CSV reporting for administrative workflows</li>
       </ul>
-      <p><img src="https://skillicons.dev/icons?i=dotnet,cs,mssql,html,css,js" height="36" alt="ASP.NET MVC, C#, SQL Server"/></p>
+      <p><img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js" height="36" alt="ASP.NET MVC, C#"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server"/></p>
       <a href="https://github.com/HafizUsamaIftikhar/school-management-system"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
@@ -158,7 +146,7 @@ I value clean architecture, readable code and continuous learning, and I work we
         <li>Scroll-triggered animations via IntersectionObserver API</li>
         <li>CSS Grid / Flexbox responsive layouts</li>
       </ul>
-      <p><img src="https://skillicons.dev/icons?i=html,css,js" height="36" alt="HTML, CSS, JavaScript"/> <kbd>&nbsp;GoHighLevel&nbsp;</kbd></p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js" height="36" alt="HTML, CSS, JavaScript"/> <img src="https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge" alt="GoHighLevel"/></p>
       <a href="https://github.com/HafizUsamaIftikhar/real-estate-ghl"><b>View Repository →</b></a>
     </td>
   </tr>
@@ -166,20 +154,12 @@ I value clean architecture, readable code and continuous learning, and I work we
     <td width="50%" valign="top">
       <h3>Gym Management System</h3>
       <p>Manages member information, subscriptions and attendance, streamlining administrative tasks with a user-friendly interface for staff and members.</p>
-      <ul>
-        <li>Member, subscription and attendance tracking</li>
-        <li>Simple interface for both staff and members</li>
-      </ul>
       <p><img src="https://skillicons.dev/icons?i=html,css,php,mysql" height="36" alt="HTML, CSS, PHP, MySQL"/></p>
       <a href="https://github.com/HafizUsamaIftikhar/gym-management-system"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>Al-Hafiz POS System</h3>
       <p>Point of Sale system for managing sales, inventory and billing, with a streamlined interface for faster transactions and accurate record-keeping.</p>
-      <ul>
-        <li>Sales, inventory and billing in one place</li>
-        <li>Fast checkout with accurate records</li>
-      </ul>
       <p><img src="https://skillicons.dev/icons?i=html,css,php,mysql" height="36" alt="HTML, CSS, PHP, MySQL"/></p>
       <a href="https://github.com/HafizUsamaIftikhar/al-hafiz-pos"><b>View Repository →</b></a>
     </td>
@@ -220,10 +200,6 @@ If you have an idea or an opportunity, feel free to reach out.
 <a href="https://www.linkedin.com/in/hafiz-usama-iftikhar-441a41285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:usamakhan34562@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/923165999084"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPldoYXRzQXBwPC90aXRsZT48cGF0aCBkPSJNMTcuNDcyIDE0LjM4MmMtLjI5Ny0uMTQ5LTEuNzU4LS44NjctMi4wMy0uOTY3LS4yNzMtLjA5OS0uNDcxLS4xNDgtLjY3LjE1LS4xOTcuMjk3LS43NjcuOTY2LS45NCAxLjE2NC0uMTczLjE5OS0uMzQ3LjIyMy0uNjQ0LjA3NS0uMjk3LS4xNS0xLjI1NS0uNDYzLTIuMzktMS40NzUtLjg4My0uNzg4LTEuNDgtMS43NjEtMS42NTMtMi4wNTktLjE3My0uMjk3LS4wMTgtLjQ1OC4xMy0uNjA2LjEzNC0uMTMzLjI5OC0uMzQ3LjQ0Ni0uNTIuMTQ5LS4xNzQuMTk4LS4yOTguMjk4LS40OTcuMDk5LS4xOTguMDUtLjM3MS0uMDI1LS41Mi0uMDc1LS4xNDktLjY2OS0xLjYxMi0uOTE2LTIuMjA3LS4yNDItLjU3OS0uNDg3LS41LS42NjktLjUxLS4xNzMtLjAwOC0uMzcxLS4wMS0uNTctLjAxLS4xOTggMC0uNTIuMDc0LS43OTIuMzcyLS4yNzIuMjk3LTEuMDQgMS4wMTYtMS4wNCAyLjQ3OSAwIDEuNDYyIDEuMDY1IDIuODc1IDEuMjEzIDMuMDc0LjE0OS4xOTggMi4wOTYgMy4yIDUuMDc3IDQuNDg3LjcwOS4zMDYgMS4yNjIuNDg5IDEuNjk0LjYyNS43MTIuMjI3IDEuMzYuMTk1IDEuODcxLjExOC41NzEtLjA4NSAxLjc1OC0uNzE5IDIuMDA2LTEuNDEzLjI0OC0uNjk0LjI0OC0xLjI4OS4xNzMtMS40MTMtLjA3NC0uMTI0LS4yNzItLjE5OC0uNTctLjM0N20tNS40MjEgNy40MDNoLS4wMDRhOS44NyA5Ljg3IDAgMDEtNS4wMzEtMS4zNzhsLS4zNjEtLjIxNC0zLjc0MS45ODIuOTk4LTMuNjQ4LS4yMzUtLjM3NGE5Ljg2IDkuODYgMCAwMS0xLjUxLTUuMjZjLjAwMS01LjQ1IDQuNDM2LTkuODg0IDkuODg4LTkuODg0IDIuNjQgMCA1LjEyMiAxLjAzIDYuOTg4IDIuODk4YTkuODI1IDkuODI1IDAgMDEyLjg5MyA2Ljk5NGMtLjAwMyA1LjQ1LTQuNDM3IDkuODg0LTkuODg1IDkuODg0bTguNDEzLTE4LjI5N0ExMS44MTUgMTEuODE1IDAgMDAxMi4wNSAwQzUuNDk1IDAgLjE2IDUuMzM1LjE1NyAxMS44OTJjMCAyLjA5Ni41NDcgNC4xNDIgMS41ODggNS45NDVMLjA1NyAyNGw2LjMwNS0xLjY1NGExMS44ODIgMTEuODgyIDAgMDA1LjY4MyAxLjQ0OGguMDA1YzYuNTU0IDAgMTEuODktNS4zMzUgMTEuODkzLTExLjg5M2ExMS44MjEgMTEuODIxIDAgMDAtMy40OC04LjQxM1oiLz48L3N2Zz4%3D" alt="WhatsApp"/></a>
-
-<br/><br/>
-
-<sub>Thanks for visiting my profile.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0A66C2&height=100&section=footer" alt="Footer"/>
 
