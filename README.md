@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f6feb&height=200&section=header&text=Hafiz%20Usama%20Iftikhar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Full-Stack%20Web%20Developer%20%7C%20GoHighLevel%20Specialist&descSize=16&descAlignY=60" alt="Header"/>
 
 <a href="https://github.com/HafizUsamaIftikhar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&lines=Building+secure+%26+scalable+web+applications;ASP.NET+Core+%7C+MVC+%7C+Web+APIs+%7C+SQL+Server;Clean+code.+Real+solutions." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&lines=HTML+%7C+CSS+%7C+PHP+%7C+MySQL;ASP.NET+Core+%7C+MVC+%7C+Web+APIs+%7C+SQL+Server;Building+secure+%26+scalable+web+applications;Clean+code.+Real+solutions." alt="Typing SVG"/>
 </a>
 
 <br/><br/>
