@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/hafiz-usama-iftikhar-441a41285/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:usamakhan34562@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://wa.me/923165999084"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://wa.me/923165999084"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPldoYXRzQXBwPC90aXRsZT48cGF0aCBkPSJNMTcuNDcyIDE0LjM4MmMtLjI5Ny0uMTQ5LTEuNzU4LS44NjctMi4wMy0uOTY3LS4yNzMtLjA5OS0uNDcxLS4xNDgtLjY3LjE1LS4xOTcuMjk3LS43NjcuOTY2LS45NCAxLjE2NC0uMTczLjE5OS0uMzQ3LjIyMy0uNjQ0LjA3NS0uMjk3LS4xNS0xLjI1NS0uNDYzLTIuMzktMS40NzUtLjg4My0uNzg4LTEuNDgtMS43NjEtMS42NTMtMi4wNTktLjE3My0uMjk3LS4wMTgtLjQ1OC4xMy0uNjA2LjEzNC0uMTMzLjI5OC0uMzQ3LjQ0Ni0uNTIuMTQ5LS4xNzQuMTk4LS4yOTguMjk4LS40OTcuMDk5LS4xOTguMDUtLjM3MS0uMDI1LS41Mi0uMDc1LS4xNDktLjY2OS0xLjYxMi0uOTE2LTIuMjA3LS4yNDItLjU3OS0uNDg3LS41LS42NjktLjUxLS4xNzMtLjAwOC0uMzcxLS4wMS0uNTctLjAxLS4xOTggMC0uNTIuMDc0LS43OTIuMzcyLS4yNzIuMjk3LTEuMDQgMS4wMTYtMS4wNCAyLjQ3OSAwIDEuNDYyIDEuMDY1IDIuODc1IDEuMjEzIDMuMDc0LjE0OS4xOTggMi4wOTYgMy4yIDUuMDc3IDQuNDg3LjcwOS4zMDYgMS4yNjIuNDg5IDEuNjk0LjYyNS43MTIuMjI3IDEuMzYuMTk1IDEuODcxLjExOC41NzEtLjA4NSAxLjc1OC0uNzE5IDIuMDA2LTEuNDEzLjI0OC0uNjk0LjI0OC0xLjI4OS4xNzMtMS40MTMtLjA3NC0uMTI0LS4yNzItLjE5OC0uNTctLjM0N20tNS40MjEgNy40MDNoLS4wMDRhOS44NyA5Ljg3IDAgMDEtNS4wMzEtMS4zNzhsLS4zNjEtLjIxNC0zLjc0MS45ODIuOTk4LTMuNjQ4LS4yMzUtLjM3NGE5Ljg2IDkuODYgMCAwMS0xLjUxLTUuMjZjLjAwMS01LjQ1IDQuNDM2LTkuODg0IDkuODg4LTkuODg0IDIuNjQgMCA1LjEyMiAxLjAzIDYuOTg4IDIuODk4YTkuODI1IDkuODI1IDAgMDEyLjg5MyA2Ljk5NGMtLjAwMyA1LjQ1LTQuNDM3IDkuODg0LTkuODg1IDkuODg0bTguNDEzLTE4LjI5N0ExMS44MTUgMTEuODE1IDAgMDAxMi4wNSAwQzUuNDk1IDAgLjE2IDUuMzM1LjE1NyAxMS44OTJjMCAyLjA5Ni41NDcgNC4xNDIgMS41ODggNS45NDVMLjA1NyAyNGw2LjMwNS0xLjY1NGExMS44ODIgMTEuODgyIDAgMDA1LjY4MyAxLjQ0OGguMDA1YzYuNTU0IDAgMTEuODktNS4zMzUgMTEuODkzLTExLjg5M2ExMS44MjEgMTEuODIxIDAgMDAtMy40OC04LjQxM1oiLz48L3N2Zz4%3D" alt="WhatsApp"/></a>
 
 <br/>
 
@@ -43,6 +43,10 @@ I'm a web developer focused on **.NET (ASP.NET Core & MVC)** and **SQL Server**,
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=html,css,js" alt="Front-End"/> | <img src="https://skillicons.dev/icons?i=cs,dotnet,php" alt="Back-End"/> | <img src="https://skillicons.dev/icons?i=mysql,mssql" alt="Database"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Tools"/> |
 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" alt="CSS"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" alt="PHP"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL"/>
 <img src="https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge" alt="GoHighLevel"/>
 <img src="https://img.shields.io/badge/Web%20APIs-REST-512BD4?style=for-the-badge" alt="Web APIs"/>
 <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="MS Word"/>
@@ -70,13 +74,13 @@ I'm a web developer focused on **.NET (ASP.NET Core & MVC)** and **SQL Server**,
     <td width="50%" valign="top">
       <h3>🏫 School Management System</h3>
       <p>Full system with <b>10+ modules</b> (fees, attendance, exams, timetable, notices) and separate dashboards for Admin, Teachers and Students. Secured with PBKDF2 hashing, parameterized queries and role-based access control. Automated PDF (fee challans, result cards) and Excel/CSV reports.</p>
-      <p><img src="https://img.shields.io/badge/ASP.NET%20MVC%205-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></p>
+      <p><img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js" height="36" alt="ASP.NET MVC, C#, SQL Server"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server"/></p>
       <a href="https://github.com/HafizUsamaIftikhar/school-management-system">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏠 Real Estate Website (GoHighLevel)</h3>
       <p>Fully responsive multi-section website built from scratch with custom code inside GoHighLevel. <b>10+ sections</b>: property listings, team profiles, testimonials and lead capture forms, with scroll-triggered animations powered by the IntersectionObserver API.</p>
-      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/GoHighLevel-FF6B00?style=flat-square"/></p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js" height="36" alt="HTML, CSS, JavaScript"/> <img src="https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge" alt="GoHighLevel"/></p>
       <a href="https://github.com/HafizUsamaIftikhar/real-estate-ghl">🔗 View Repository</a>
     </td>
   </tr>
@@ -84,13 +88,13 @@ I'm a web developer focused on **.NET (ASP.NET Core & MVC)** and **SQL Server**,
     <td width="50%" valign="top">
       <h3>🏋️ Gym Management System</h3>
       <p>Manages member information, subscriptions and attendance. Streamlines administrative tasks with a user-friendly interface for both staff and members.</p>
-      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,php,mysql" height="36" alt="HTML, CSS, PHP, MySQL"/></p>
       <a href="https://github.com/HafizUsamaIftikhar/gym-management-system">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧾 Al-Hafiz POS System</h3>
       <p>Point of Sale system to manage sales, inventory and billing, with a streamlined interface for faster transactions and accurate record-keeping.</p>
-      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,php,mysql" height="36" alt="HTML, CSS, PHP, MySQL"/></p>
       <a href="https://github.com/HafizUsamaIftikhar/al-hafiz-pos">🔗 View Repository</a>
     </td>
   </tr>
@@ -126,7 +130,7 @@ I'm open to **.NET / Full-Stack Developer** roles and freelance projects. If you
 
 <a href="https://www.linkedin.com/in/hafiz-usama-iftikhar-441a41285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:usamakhan34562@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/923165999084"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/923165999084"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPldoYXRzQXBwPC90aXRsZT48cGF0aCBkPSJNMTcuNDcyIDE0LjM4MmMtLjI5Ny0uMTQ5LTEuNzU4LS44NjctMi4wMy0uOTY3LS4yNzMtLjA5OS0uNDcxLS4xNDgtLjY3LjE1LS4xOTcuMjk3LS43NjcuOTY2LS45NCAxLjE2NC0uMTczLjE5OS0uMzQ3LjIyMy0uNjQ0LjA3NS0uMjk3LS4xNS0xLjI1NS0uNDYzLTIuMzktMS40NzUtLjg4My0uNzg4LTEuNDgtMS43NjEtMS42NTMtMi4wNTktLjE3My0uMjk3LS4wMTgtLjQ1OC4xMy0uNjA2LjEzNC0uMTMzLjI5OC0uMzQ3LjQ0Ni0uNTIuMTQ5LS4xNzQuMTk4LS4yOTguMjk4LS40OTcuMDk5LS4xOTguMDUtLjM3MS0uMDI1LS41Mi0uMDc1LS4xNDktLjY2OS0xLjYxMi0uOTE2LTIuMjA3LS4yNDItLjU3OS0uNDg3LS41LS42NjktLjUxLS4xNzMtLjAwOC0uMzcxLS4wMS0uNTctLjAxLS4xOTggMC0uNTIuMDc0LS43OTIuMzcyLS4yNzIuMjk3LTEuMDQgMS4wMTYtMS4wNCAyLjQ3OSAwIDEuNDYyIDEuMDY1IDIuODc1IDEuMjEzIDMuMDc0LjE0OS4xOTggMi4wOTYgMy4yIDUuMDc3IDQuNDg3LjcwOS4zMDYgMS4yNjIuNDg5IDEuNjk0LjYyNS43MTIuMjI3IDEuMzYuMTk1IDEuODcxLjExOC41NzEtLjA4NSAxLjc1OC0uNzE5IDIuMDA2LTEuNDEzLjI0OC0uNjk0LjI0OC0xLjI4OS4xNzMtMS40MTMtLjA3NC0uMTI0LS4yNzItLjE5OC0uNTctLjM0N20tNS40MjEgNy40MDNoLS4wMDRhOS44NyA5Ljg3IDAgMDEtNS4wMzEtMS4zNzhsLS4zNjEtLjIxNC0zLjc0MS45ODIuOTk4LTMuNjQ4LS4yMzUtLjM3NGE5Ljg2IDkuODYgMCAwMS0xLjUxLTUuMjZjLjAwMS01LjQ1IDQuNDM2LTkuODg0IDkuODg4LTkuODg0IDIuNjQgMCA1LjEyMiAxLjAzIDYuOTg4IDIuODk4YTkuODI1IDkuODI1IDAgMDEyLjg5MyA2Ljk5NGMtLjAwMyA1LjQ1LTQuNDM3IDkuODg0LTkuODg1IDkuODg0bTguNDEzLTE4LjI5N0ExMS44MTUgMTEuODE1IDAgMDAxMi4wNSAwQzUuNDk1IDAgLjE2IDUuMzM1LjE1NyAxMS44OTJjMCAyLjA5Ni41NDcgNC4xNDIgMS41ODggNS45NDVMLjA1NyAyNGw2LjMwNS0xLjY1NGExMS44ODIgMTEuODgyIDAgMDA1LjY4MyAxLjQ0OGguMDA1YzYuNTU0IDAgMTEuODktNS4zMzUgMTEuODkzLTExLjg5M2ExMS44MjEgMTEuODIxIDAgMDAtMy40OC04LjQxM1oiLz48L3N2Zz4%3D"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0A66C2&height=100&section=footer" alt="Footer"/>
 
